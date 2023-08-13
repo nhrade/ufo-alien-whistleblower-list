@@ -93,3 +93,6 @@ Is every single one of them delusional or lying?
 
 ### Leland Melvin
   - [Alien in Payload Bay](https://www.youtube.com/watch?v=qxA1Ppzl0ng)
+
+### Gordon Cooper
+  - [UFO library](https://www.youtube.com/watch?v=fhDU2O-Zo-A)
