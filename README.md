@@ -99,3 +99,6 @@ Is every single one of them delusional or lying?
 
 ### Admiral Thomas Wilson
   - [Wilson-Davis Notes](https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf)
+
+### David Fravor
+  - [House Hearing](https://www.youtube.com/watch?v=usPustgTcDU)
