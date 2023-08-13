@@ -3,7 +3,7 @@ List of of UFO, SSP, and alien whistleblowers. The phenomenon is kept secret but
 
 Feel free to add more and send a pull request.
 
-*Is every single one of them delusional or lying?*
+**Is every single one of them delusional or lying?**
 
 ### Lue Elizondo
   - [Interview with Curtis](https://www.youtube.com/watch?v=aAmFlLfsZKM)
