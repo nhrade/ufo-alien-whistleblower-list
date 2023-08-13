@@ -1,5 +1,7 @@
 # UFO, SSP, and Alien Whistleblower List
-List of of UFO, SSP, and alien whistleblowers. Feel free to add more and send a pull request.
+List of of UFO, SSP, and alien whistleblowers. The phenomenon is kept secret and is related to Pentagon budget mismanagement, black-budget programs, secret space programs, and psychic phenomenon.
+
+Feel free to add more and send a pull request.
 
 Is every single one of them delusional or lying?
 
