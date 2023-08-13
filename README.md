@@ -6,6 +6,7 @@ Is every single one of them delusional or lying?
 ### Lue Elizondo
   - [Interview with Curtis](https://www.youtube.com/watch?v=aAmFlLfsZKM)
   - [Resignation Letter from DoD](https://documents2.theblackvault.com/documents/dod/DODIG-2022-000313.pdf)
+  - [DOPSR Request for UFO Videos](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0724_ATTN_Russo_DOPSR_Request_Part%203.pdf?ver=2019-08-19-123643-950)
 
 ### SSGT Dan Sherman
   - [Supporting Evidence](https://medium.com/@richgel99/some-public-record-corroboration-of-ex-usaf-sergeant-dan-shermans-story-90dacc6e36dd)
