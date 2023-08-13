@@ -96,3 +96,6 @@ Is every single one of them delusional or lying?
 
 ### Gordon Cooper
   - [UFO library](https://www.youtube.com/watch?v=fhDU2O-Zo-A)
+
+## Admiral Thomas Wilson
+  - [Wilson-Davis Notes](https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf)
