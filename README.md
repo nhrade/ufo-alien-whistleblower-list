@@ -82,3 +82,7 @@ Is every single one of them delusional or lying?
 ### Bob Lazar
   - [Bob's interview](https://www.youtube.com/watch?v=4UjqFaQq_7I)
   - [Lie Detector Test](https://www.youtube.com/watch?v=H31OtidF8TQ)
+
+### Daniel Fry
+  - [The White Sands Incident](https://danielfry.com/daniels-writings/white-sands-incident/)
+  - [Polygraph results](https://danielfry.com/controversies/polygraph-test/)
