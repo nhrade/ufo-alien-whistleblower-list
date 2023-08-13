@@ -17,6 +17,7 @@ Is every single one of them delusional or lying?
 
 ### Emery Smith
   - [Cosmic Disclosure](https://www.amazon.com/Cosmic-Disclosure-Season-1/dp/B017SVPMY2)
+  - [Emery's LinkedIn](https://www.linkedin.com/in/emery-smith-699929112/)
 
 ### Corey Goode
   - [Corey's LinkedIn](https://www.linkedin.com/in/corey-goode-7024621/)
