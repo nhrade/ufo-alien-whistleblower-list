@@ -47,7 +47,7 @@ Is every single one of them delusional or lying?
   - [Vice feature](https://www.youtube.com/watch?v=Qt1WVeyMqdo)
 
 ### Sgt. Maj. Robert Dean
-  - [Robert Dean's experiences at NATO SHAPE)[https://twitter.com/planethunter56/status/1660843056764170240]
+  - [Robert Dean's experiences at NATO SHAPE](https://twitter.com/planethunter56/status/1660843056764170240)
   - [NATO denial](https://shape.nato.int/page2148213115)
   - [The Greatest Story Never Told](https://www.worldcat.org/title/Robert-O.-Dean-:-the-greatest-story-never-told/oclc/42513453)
 
