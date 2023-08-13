@@ -87,3 +87,9 @@ Is every single one of them delusional or lying?
 ### Daniel Fry
   - [The White Sands Incident](https://danielfry.com/daniels-writings/white-sands-incident/)
   - [Polygraph results](https://danielfry.com/controversies/polygraph-test/)
+
+### Edgar Mitchell
+  - [Aliens Prevented Nuclear War](https://www.youtube.com/watch?v=knnWo6Lrm6s)
+
+### Leland Melvin
+  - [Alien in Payload Bay](https://www.youtube.com/watch?v=qxA1Ppzl0ng)
