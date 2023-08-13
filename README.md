@@ -9,6 +9,7 @@ Is every single one of them delusional or lying?
 
 ### Gary McKinnon
   - [Youtube Video](https://www.youtube.com/watch?v=OImdnvQx7sQ)
+  - [Extradition battle](https://www.youtube.com/watch?v=xudYoyi_JSY)
 
 ### Maj. David Grusch
   - [House Hearing](https://www.youtube.com/watch?v=lcrCMLVk614)
@@ -56,7 +57,7 @@ Is every single one of them delusional or lying?
   - [NBC Article](https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333)
 
 ### Frank Stranges
-  - [Stranger at The Pentagon](https://ia801909.us.archive.org/11/items/stranger-at-the-pentagon/Stranger%20at%20the%20Pentagon.pdf)
+  - [Stranger at the Pentagon](https://ia801909.us.archive.org/11/items/stranger-at-the-pentagon/Stranger%20at%20the%20Pentagon.pdf)
 
 ### Sgt. Karl Wolf
   - [National Press Club](https://www.youtube.com/watch?v=n9hyqlBVdE0)
