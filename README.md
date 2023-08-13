@@ -3,6 +3,10 @@ List of of UFO, SSP, and alien whistleblowers. Feel free to add more and send a 
 
 Is every single one of them delusional or lying?
 
+### Lue Elizondo
+  - [Interview with Curtis](https://www.youtube.com/watch?v=aAmFlLfsZKM)
+  - [Resignation Letter from DoD](https://documents2.theblackvault.com/documents/dod/DODIG-2022-000313.pdf)
+
 ### SSGT Dan Sherman
   - [Supporting Evidence](https://medium.com/@richgel99/some-public-record-corroboration-of-ex-usaf-sergeant-dan-shermans-story-90dacc6e36dd)
   - [Above Black](https://www.aboveblack.com/)
