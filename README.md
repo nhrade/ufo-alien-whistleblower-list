@@ -9,6 +9,7 @@ Feel free to add more and send a pull request.
   - [Interview with Curtis](https://www.youtube.com/watch?v=aAmFlLfsZKM)
   - [Resignation Letter from DoD](https://documents2.theblackvault.com/documents/dod/DODIG-2022-000313.pdf)
   - [DOPSR Request for UFO Videos](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0724_ATTN_Russo_DOPSR_Request_Part%203.pdf?ver=2019-08-19-123643-950)
+  - [Elizondo talk](https://www.youtube.com/watch?v=Q6o0DosvhTs)
 
 ### J. Allen Hynek
   - [Richard Geldreich's research](https://medium.com/@richgel99/dr-hynek-on-the-usafs-debunking-program-dc2fbba2ae3d)
