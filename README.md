@@ -118,5 +118,5 @@ Feel free to add more and send a pull request.
 ### Cpl. Jonathan Weygandt
   - [Interview](https://www.youtube.com/watch?v=VHOwe9dsOwI)
 
-### Michael Hererra
+### Michael Herrera
   - [Interview with Shawn Ryan](https://www.youtube.com/watch?v=3zm4nh3S66I)
