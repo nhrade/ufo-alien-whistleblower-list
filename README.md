@@ -96,6 +96,11 @@ Feel free to add more and send a pull request.
   - [Bob's interview](https://www.youtube.com/watch?v=4UjqFaQq_7I)
   - [Lie Detector Test](https://www.youtube.com/watch?v=H31OtidF8TQ)
 
+
+### James Lacatski
+  - [Skinwalkers at the Pentagon](https://www.amazon.com/Skinwalkers-Pentagon-Insiders-Account-Government/dp/B09HR54GQF)
+  - [Weaponized Podcast](https://podcasts.apple.com/us/podcast/inside-the-dias-secretive-ufo-investigation-guests-dr/id1664299388?i=1000631572518)
+
 ### Daniel Fry
   - [The White Sands Incident](https://danielfry.com/daniels-writings/white-sands-incident/)
   - [Polygraph results](https://danielfry.com/controversies/polygraph-test/)
