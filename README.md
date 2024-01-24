@@ -1,5 +1,5 @@
 # UFO, SSP, and Alien Whistleblower List
-List of of UFO, SSP, and alien whistleblowers. The phenomenon is kept secret but there have been many leaks and is related to Pentagon budget mismanagement, black-budget programs, secret space programs, and psychic phenomenon.
+List of UFO, SSP, and alien whistleblowers. The phenomenon is kept secret but there have been many leaks and is related to Pentagon budget mismanagement, black-budget programs, secret space programs, and psychic phenomena.
 
 Feel free to add more and send a pull request.
 
@@ -18,10 +18,12 @@ Feel free to add more and send a pull request.
 ### SSGT Dan Sherman
   - [Supporting Evidence](https://medium.com/@richgel99/some-public-record-corroboration-of-ex-usaf-sergeant-dan-shermans-story-90dacc6e36dd)
   - [Above Black](https://www.aboveblack.com/)
+  - [FOIA Confirmation of NSA-PPD Link](https://github.com/nhrade/ufo-alien-whistleblower-list/blob/main/AF%20202305430F%20Hradek.pdf)
 
 ### Gary McKinnon
   - [Youtube Video](https://www.youtube.com/watch?v=OImdnvQx7sQ)
   - [Extradition battle](https://www.youtube.com/watch?v=xudYoyi_JSY)
+  - [Independent Article](https://www.independent.co.uk/news/uk/crime/he-literally-couldn-t-speak-relief-for-computer-hacker-gary-mckinnon-as-he-wins-extradition-fight-8212702.html)
 
 ### Maj. David Grusch
   - [House Hearing](https://www.youtube.com/watch?v=lcrCMLVk614)
@@ -31,6 +33,13 @@ Feel free to add more and send a pull request.
 ### Emery Smith
   - [Cosmic Disclosure](https://www.amazon.com/Cosmic-Disclosure-Season-1/dp/B017SVPMY2)
   - [Emery's LinkedIn](https://www.linkedin.com/in/emery-smith-699929112/)
+  - [Divine Cosmos Article on Emery](https://divinecosmos.com/davids-blog/1224-emery-smith/)
+  - [Cosmic Library Entry on Emery](https://cosmiclibrary.org/emery-smith/)
+
+### Clifford Stone
+  - [Divine Cosmos Entry](https://cosmiclibrary.org/sgt-clifford-stone/)
+  - [Coast to Coast Interviews](https://www.coasttocoastam.com/guest/stone-clifford-7364/)
+  - [Eyes Only Book](https://www.amazon.com/Eyes-Only-Story-Clifford-Retrievals/dp/1467958670)
 
 ### Corey Goode
   - [Corey's LinkedIn](https://www.linkedin.com/in/corey-goode-7024621/)
@@ -43,7 +52,7 @@ Feel free to add more and send a pull request.
   - [Exopolitics research by Michael Salla](https://exopolitics.org/jp-articles-photos-videos/)
 
 ### Charles Hall
-  - [Milennium Hospitality](https://www.google.com/books/edition/Millennial_Hospitality/JSO8Hy9z-BYC?hl=en&gbpv=1&printsec=frontcover)
+  - [Millennial Hospitality](https://www.google.com/books/edition/Millennial_Hospitality/JSO8Hy9z-BYC?hl=en&gbpv=1&printsec=frontcover)
   - [Supporting Evidence](https://medium.com/@noahhradek/evidence-for-the-testimony-of-charles-hall-and-the-tall-whites-3e8a38cfae41)
 
 ### William Tompkins
@@ -51,7 +60,8 @@ Feel free to add more and send a pull request.
   - [Selected by Extraterrestrials](https://www.goodreads.com/book/show/31142467-selected-by-extraterrestrials)
 
 ### Phil Schneider
-
+  - [The True Story of Phil Schneider](https://archive.org/details/TheTrueStoryOfPhilSchneider)
+  - [Phil Schneider a Fraud by Norio Hayakawa?](https://noriohayakawa.wordpress.com/2023/02/07/final-conclusion-to-the-fraudster-phil-schneider-story/)
 
 ### Col. Phillip J. Corso
   - [Day After Roswell](https://www.goodreads.com/en/book/show/391849)
