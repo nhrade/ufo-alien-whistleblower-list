@@ -135,7 +135,7 @@ Feel free to add more and send a pull request.
 ### Alex Dietrich
   - [CNN](https://www.cnn.com/videos/politics/2021/05/19/alex-dietrich-ufo-sighting-ac360-intv-vpx.cnn)
 
-### Cpl. Jonathan Weygandt
+### Jonathan Weygandt
   - [Interview](https://www.youtube.com/watch?v=VHOwe9dsOwI)
 
 ### Michael Herrera
