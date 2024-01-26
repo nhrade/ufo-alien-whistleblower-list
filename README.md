@@ -16,7 +16,7 @@ Feel free to add more and send a pull request.
   - [Richard Geldreich's research](https://medium.com/@richgel99/dr-hynek-on-the-usafs-debunking-program-dc2fbba2ae3d)
   - [History profile](https://www.history.com/news/j-allen-hynek-ufos-project-blue-book)
 
-### SSGT Dan Sherman
+### Dan Sherman
   - [Supporting Evidence](https://medium.com/@richgel99/some-public-record-corroboration-of-ex-usaf-sergeant-dan-shermans-story-90dacc6e36dd)
   - [Above Black](https://www.aboveblack.com/)
   - [FOIA Confirmation of NSA-PPD Link](https://github.com/nhrade/ufo-alien-whistleblower-list/blob/main/AF%20202305430F%20Hradek.pdf)
@@ -26,7 +26,7 @@ Feel free to add more and send a pull request.
   - [Extradition battle](https://www.youtube.com/watch?v=xudYoyi_JSY)
   - [Independent Article](https://www.independent.co.uk/news/uk/crime/he-literally-couldn-t-speak-relief-for-computer-hacker-gary-mckinnon-as-he-wins-extradition-fight-8212702.html)
 
-### Maj. David Grusch
+### David Grusch
   - [House Hearing](https://www.youtube.com/watch?v=lcrCMLVk614)
   - [Transcript](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)
   - [David's Resume](https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf)
@@ -65,14 +65,14 @@ Feel free to add more and send a pull request.
   - [The True Story of Phil Schneider](https://archive.org/details/TheTrueStoryOfPhilSchneider)
   - [Phil Schneider a Fraud by Norio Hayakawa?](https://noriohayakawa.wordpress.com/2023/02/07/final-conclusion-to-the-fraudster-phil-schneider-story/)
 
-### Col. Phillip J. Corso
+### Phillip J. Corso
   - [Day After Roswell](https://www.goodreads.com/en/book/show/391849)
   - [CUFON research and DA form.](https://www.cufon.org/cufon/corso_da66.htm)
 
 ### Paul Hellyer
   - [Vice feature](https://www.youtube.com/watch?v=Qt1WVeyMqdo)
 
-### Sgt. Maj. Robert Dean
+### Robert Dean
   - [Robert Dean's experiences at NATO SHAPE](https://twitter.com/planethunter56/status/1660843056764170240)
   - [NATO denial](https://shape.nato.int/page2148213115)
   - [The Greatest Story Never Told](https://www.worldcat.org/title/Robert-O.-Dean-:-the-greatest-story-never-told/oclc/42513453)
@@ -84,7 +84,7 @@ Feel free to add more and send a pull request.
 ### Frank Stranges
   - [Stranger at the Pentagon](https://ia801909.us.archive.org/11/items/stranger-at-the-pentagon/Stranger%20at%20the%20Pentagon.pdf)
 
-### Sgt. Karl Wolf
+### Karl Wolf
   - [National Press Club](https://www.youtube.com/watch?v=n9hyqlBVdE0)
   - [Yahoo article](https://news.yahoo.com/karl-wolfe-claimed-saw-nasa-122126101.html)
 
