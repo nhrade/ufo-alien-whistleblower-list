@@ -10,6 +10,7 @@ Feel free to add more and send a pull request.
   - [Resignation Letter from DoD](https://documents2.theblackvault.com/documents/dod/DODIG-2022-000313.pdf)
   - [DOPSR Request for UFO Videos](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0724_ATTN_Russo_DOPSR_Request_Part%203.pdf?ver=2019-08-19-123643-950)
   - [Elizondo talk](https://www.youtube.com/watch?v=Q6o0DosvhTs)
+  - [NY Times Article](https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html)
 
 ### J. Allen Hynek
   - [Richard Geldreich's research](https://medium.com/@richgel99/dr-hynek-on-the-usafs-debunking-program-dc2fbba2ae3d)
@@ -29,6 +30,7 @@ Feel free to add more and send a pull request.
   - [House Hearing](https://www.youtube.com/watch?v=lcrCMLVk614)
   - [Transcript](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)
   - [David's Resume](https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf)
+  - [DOPSR Form](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf)
 
 ### Emery Smith
   - [Cosmic Disclosure](https://www.amazon.com/Cosmic-Disclosure-Season-1/dp/B017SVPMY2)
@@ -77,6 +79,7 @@ Feel free to add more and send a pull request.
 
 ### Haim Eshed
   - [NBC Article](https://www.nbcnews.com/news/weird-news/former-israeli-space-security-chief-says-extraterrestrials-exist-trump-knows-n1250333)
+  - [Times of Israel](https://www.timesofisrael.com/israeli-space-chief-says-aliens-may-well-exist-but-they-havent-met-humans/)
 
 ### Frank Stranges
   - [Stranger at the Pentagon](https://ia801909.us.archive.org/11/items/stranger-at-the-pentagon/Stranger%20at%20the%20Pentagon.pdf)
@@ -105,7 +108,6 @@ Feel free to add more and send a pull request.
 ### Bob Lazar
   - [Bob's interview](https://www.youtube.com/watch?v=4UjqFaQq_7I)
   - [Lie Detector Test](https://www.youtube.com/watch?v=H31OtidF8TQ)
-
 
 ### James Lacatski
   - [Skinwalkers at the Pentagon](https://www.amazon.com/Skinwalkers-Pentagon-Insiders-Account-Government/dp/B09HR54GQF)
