@@ -60,6 +60,7 @@ Feel free to add more and send a pull request.
 ### William Tompkins
   - [Exopolitics research by Michael Salla](https://exopolitics.org/william-tompkins-us-navy-secret-space-program/)
   - [Selected by Extraterrestrials](https://www.goodreads.com/book/show/31142467-selected-by-extraterrestrials)
+  - [Interview on SSP](https://www.youtube.com/watch?v=uQmsqRIX-tw)
 
 ### Phil Schneider
   - [The True Story of Phil Schneider](https://archive.org/details/TheTrueStoryOfPhilSchneider)
