@@ -12,6 +12,7 @@ Feel free to add more and send a pull request.
   - [Elizondo talk](https://www.youtube.com/watch?v=Q6o0DosvhTs)
   - [NY Times Article](https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html)
   - [Imminent Autobiography](https://www.amazon.com/Imminent-Pentagons-Responsible-Investigating-Profound/dp/0063235560)
+  - [Joe Rogan](https://open.spotify.com/episode/08Fi0pDJnCLRK0jSSLO1Le)
 
 ### J. Allen Hynek
   - [Richard Geldreich's research](https://medium.com/@richgel99/dr-hynek-on-the-usafs-debunking-program-dc2fbba2ae3d)
