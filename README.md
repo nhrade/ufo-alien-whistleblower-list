@@ -55,6 +55,7 @@ Feel free to add more and send a pull request.
   - [Exopolitics research by Michael Salla](https://exopolitics.org/jp-articles-photos-videos/)
   - [Bermuda Triangle UFO Sightings](https://medium.com/predict/the-bermuda-triangle-and-ufo-sightings-00e2821ba066)
   - [Time Glitches](https://github.com/nhrade/nuforc-data/edit/main/timeline-glitches.md)
+  - [Black Triangle Analysis](https://medium.com/@noahhradek/analyzing-a-black-triangle-ufo-photo-3cbe1270b1dc)
 
 ### Charles Hall
   - [Millennial Hospitality](https://www.google.com/books/edition/Millennial_Hospitality/JSO8Hy9z-BYC?hl=en&gbpv=1&printsec=frontcover)
@@ -87,6 +88,9 @@ Feel free to add more and send a pull request.
 
 ### Frank Stranges
   - [Stranger at the Pentagon](https://ia801909.us.archive.org/11/items/stranger-at-the-pentagon/Stranger%20at%20the%20Pentagon.pdf)
+
+### Marik Von Rennenkampff
+  - [Scientific Analysis of Gimbal](https://x.com/MvonRen/status/1669133205985714176)
 
 ### Karl Wolf
   - [National Press Club](https://www.youtube.com/watch?v=n9hyqlBVdE0)
