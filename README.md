@@ -11,6 +11,7 @@ Feel free to add more and send a pull request.
   - [DOPSR Request for UFO Videos](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0724_ATTN_Russo_DOPSR_Request_Part%203.pdf?ver=2019-08-19-123643-950)
   - [Elizondo talk](https://www.youtube.com/watch?v=Q6o0DosvhTs)
   - [NY Times Article](https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html)
+  - [Imminent](https://www.amazon.com/Imminent-Pentagons-Responsible-Investigating-Profound/dp/0063235560)
 
 ### J. Allen Hynek
   - [Richard Geldreich's research](https://medium.com/@richgel99/dr-hynek-on-the-usafs-debunking-program-dc2fbba2ae3d)
