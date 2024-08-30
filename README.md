@@ -1,5 +1,5 @@
 # UFO, SSP, and Alien Whistleblower List
-List of UFO, SSP, and alien whistleblowers. The phenomenon is kept secret but there have been many leaks and is related to Pentagon budget mismanagement, black-budget programs, secret space programs, and psychic phenomena.
+List of UFO, SSP, and alien whistleblowers. The phenomenon is kept secret but there have been many leaks and is related to Pentagon budget mismanagement, black-budget programs, secret space programs, and psychic phenomena. The main hypothesis I support is that there is ET contact and there is a temporal war between ET factions involving psychotronic weapons and psychic phenomena along with a widespread genetic engineering program. Otherwise, it's all just crazy. Yet I think this hypothesis is right.
 
 Feel free to add more and send a pull request.
 
