@@ -52,6 +52,8 @@ Feel free to add more and send a pull request.
 
 ### JP
   - [Exopolitics research by Michael Salla](https://exopolitics.org/jp-articles-photos-videos/)
+  - [Bermuda Triangle UFO Sightings](https://medium.com/predict/the-bermuda-triangle-and-ufo-sightings-00e2821ba066)
+  - [Time Glitches](https://github.com/nhrade/nuforc-data/edit/main/timeline-glitches.md)
 
 ### Charles Hall
   - [Millennial Hospitality](https://www.google.com/books/edition/Millennial_Hospitality/JSO8Hy9z-BYC?hl=en&gbpv=1&printsec=frontcover)
