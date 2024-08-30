@@ -144,6 +144,9 @@ Feel free to add more and send a pull request.
 ### Michael Herrera
   - [Interview with Shawn Ryan](https://www.youtube.com/watch?v=3zm4nh3S66I)
 
-
+### Elana Danaan
+  - [A Gift From the Stars](https://www.amazon.com/Gift-Stars-Extraterrestrial-Contacts-Guide/dp/B08HGLNH1P/ref=asc_df_B08HGLNH1P/?tag=hyprod-20&linkCode=df0&hvadid=693433656677&hvpos=&hvnetw=g&hvrand=16786904763660203167&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028698&hvtargid=pla-975914931560&psc=1&mcid=4de6dc0f953334b4ac83d1b885eefe59)
+  - [Books by Elena](https://www.goodreads.com/author/list/19363859.Elena_Danaan)
+ 
 ### Jason Sands
   - [USAF whistleblower](https://www.msn.com/en-us/news/world/us-air-force-insider-claims-he-was-offered-job-on-ufo-crash-team-but-turned-it-down-for-gross-reason/ar-AA1nzqN4)
