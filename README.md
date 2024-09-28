@@ -133,6 +133,9 @@ Feel free to add more and send a pull request.
 ### Edgar Mitchell
   - [Aliens Prevented Nuclear War](https://www.youtube.com/watch?v=knnWo6Lrm6s)
 
+### Harald Malmgren
+  - [Crash Retrievals](https://x.com/Halsrethink/status/1839818832795357384)
+
 ### Leland Melvin
   - [Alien in Payload Bay](https://www.youtube.com/watch?v=qxA1Ppzl0ng)
 
